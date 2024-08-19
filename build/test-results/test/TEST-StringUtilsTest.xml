@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-08-19T18:51:15" hostname="DESKTOP-FA7S5G1" time="0.164">
+  <properties/>
+  <testcase name="isPositiveNumberSchouldReturnTrue()" classname="StringUtilsTest" time="0.048"/>
+  <testcase name="[1] abc" classname="StringUtilsTest" time="0.042"/>
+  <testcase name="[2] -32" classname="StringUtilsTest" time="0.002"/>
+  <testcase name="[3] 1.2a" classname="StringUtilsTest" time="0.002"/>
+  <testcase name="[4] -3.3" classname="StringUtilsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
